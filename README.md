@@ -1,2 +1,2 @@
 # Proiect realizat in cadrul unei echipe
-Proiect realizat impreuna cu inca 2 colege in cadrul seminarului
+Proiectul analizeaza dezvoltarea capsunilor in functie de anumite conditii
